@@ -1,4 +1,4 @@
 node-module-factory
 ===================
 
-Demonstration of a factory for node modules 
+Example of a simplified module factory that supports automatic updates when files are added or modified. 
